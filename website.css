@@ -1,0 +1,87 @@
+img { width: 300px;
+    height: 300px;
+    
+}
+li {
+    display: inline;
+  }
+  
+  body {
+    background-image: url(simpele\ achtergrond.jpg);
+  }
+    main {
+      /* height: 600px; */
+      width: 850px;
+      font-size: 25px;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 25px 200px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: rgb(33, 96, 135)  
+    }
+
+    footer
+    {
+      text-align: center;
+    }
+    .wrapper{
+      display: flex;
+      padding: 20px;
+    }
+    .Woonplaats {
+      display: flex;
+      justify-content: row;
+    }
+    .gamen  {
+      display: flex;
+      
+    }
+    .chillen{
+      display: flex;
+    }
+    .voetballen {
+      display: flex;
+   }
+    
+   .text1 {
+    padding-left: 80px;
+    /* width: 100px; */
+    
+   }
+   
+   .text2 {
+    padding-left: 80px;
+   }
+   
+   
+   .text3 {
+      padding-left: 80px;
+    }
+
+    .text4 {
+      padding-left: 100px;
+
+      
+    }
+    
+    
+
+  
